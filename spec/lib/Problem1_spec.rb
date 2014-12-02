@@ -1,7 +1,7 @@
 require "spec_helper"
 require "Problem1.rb"   # name of the class we have just created 
 
-describe do
+describe "lovemac"do
 	before do
   	end
   	it "1" do
